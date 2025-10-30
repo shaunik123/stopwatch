@@ -11,6 +11,6 @@ It allows users to start, stop, and reset the timer with an easy-to-use interfac
 
 ### 🧠 Tech Stack
 
-HTML – Structure
-CSS – Styling
+HTML – Structure <br>
+CSS – Styling <br>
 JavaScript – Stopwatch logic
